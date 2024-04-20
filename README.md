@@ -4,7 +4,7 @@ Hello, I am Andrea, aka silver978, an indie game designer and developer. 😄
 
 I create inspirational horror games but I am open to any genre. 
 
-Worked on [#LUISOAC](https://store.steampowered.com/app/1742930/Looking_Up_I_See_Only_A_Ceiling/) and now developing its DLC "The Relapse". 
+Worked on ["Looking Up I See Only A Ceiling"](https://store.steampowered.com/app/1742930/Looking_Up_I_See_Only_A_Ceiling/) and now developing its DLC "The Relapse". 
 
 Recently, I am experimenting with new game styles. 
 
